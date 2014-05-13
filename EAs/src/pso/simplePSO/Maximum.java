@@ -1,4 +1,4 @@
-package simplePSO;
+package pso.simplePSO;
 
 import java.util.Random;
 
